@@ -3,6 +3,8 @@
 # Solana Arbitrage Bot Architecture
 
 ## DEXs supported
+ - Raydium
+ - Meteora
  - Serum
  - Aldrin
  - Saber
