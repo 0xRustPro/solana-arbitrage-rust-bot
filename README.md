@@ -2,6 +2,13 @@
 
 # Solana Arbitrage Bot Architecture
 
+## DEXs supported
+ - Serum
+ - Aldrin
+ - Saber
+ - Mercurial
+ - Orca
+
 ## On-Chain Arbitrage Limitations
 
 Important note: On-chain arbitrage programs face several limitations and risks:
