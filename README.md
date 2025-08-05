@@ -1,4 +1,4 @@
-# [📞Telegram](https://t.me/oxie11)
+# [📞Telegram] (https://t.me/Rust0x_dev)
 
 # Solana Arbitrage Bot Architecture
 
